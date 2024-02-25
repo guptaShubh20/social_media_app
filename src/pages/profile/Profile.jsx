@@ -28,32 +28,32 @@ const Profile = () => {
       <div className="profileContainer">
         <div className="uInfo">
           <div className="left">
-            <a href="http://facebook.com">
+            <a href="https://www.facebook.com/profile.php?id=100017532368927">
               <FacebookTwoToneIcon fontSize="large" />
             </a>
-            <a href="http://facebook.com">
+            <a href="https://www.instagram.com/lovingshubh_1/">
               <InstagramIcon fontSize="large" />
             </a>
-            <a href="http://facebook.com">
+            <a href="https://twitter.com/lovingshubh_1">
               <TwitterIcon fontSize="large" />
             </a>
-            <a href="http://facebook.com">
+            <a href="https://www.linkedin.com/in/shubham-gupta-329666237/">
               <LinkedInIcon fontSize="large" />
             </a>
-            <a href="http://facebook.com">
+            <a href="https://www.threads.net/@lovingshubh_1">
               <PinterestIcon fontSize="large" />
             </a>
           </div>
           <div className="center">
-            <span>Jane Doe</span>
+            <span>Shubham</span>
             <div className="info">
               <div className="item">
                 <PlaceIcon />
-                <span>USA</span>
+                <span>INDIA</span>
               </div>
               <div className="item">
                 <LanguageIcon />
-                <span>lama.dev</span>
+                <span>Hindi</span>
               </div>
             </div>
             <button>follow</button>

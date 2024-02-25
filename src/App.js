@@ -1,9 +1,9 @@
-import Login from "./pages/login/Login";
-import Register from "./pages/register/Register";
+// import Login from "./pages/login/Login";
+// import Register from "./pages/register/Register";
 import {
   createBrowserRouter,
   RouterProvider,
-  Route,
+  // Route,
   Outlet,
   Navigate,
 } from "react-router-dom";
@@ -64,14 +64,14 @@ function App() {
         },
       ],
     },
-    {
-      path: "/login",
-      element: <Login />,
-    },
-    {
-      path: "/register",
-      element: <Register />,
-    },
+    // {
+    //   path: "/login",
+    //   element: <Login />,
+    // },
+    // {
+    //   path: "/register",
+    //   element: <Register />,
+    // },
   ]);
 
   return (
